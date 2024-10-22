@@ -1,5 +1,1 @@
 Teste Aula - Cauê Krespi
-Faculdade: Unisociesc
-Matéria: Gestão da Qualidade de Software
-Aluno: Cauê Krespi
-RA: 152420135
