@@ -8,7 +8,7 @@ Tecnologias em uso:
 </div>
 <br></br>
 <strong>Conteúdos:</strong>
-<br></br>
+
 * [Cypress](AULA_01)
   * Utilização do [Cypress](https://www.cypress.io), para fazer login em um site. Testes de automação na inserção de senha correta, incorreta, além da possibilidade da não inserção de um desses dados.
 * [Robot](AULA_02)
