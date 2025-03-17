@@ -9,9 +9,9 @@ Tecnologias em uso:
 <br></br>
 <strong>Conteúdos:</strong>
 
-* [Cypress](AULA_01)
+* [Cypress]
   * Utilização do [Cypress](https://www.cypress.io), para fazer login em um site. Testes de automação na inserção de senha correta, incorreta, além da possibilidade da não inserção de um desses dados.
-* [Robot](AULA_02)
+* [Robot]
   * Utilização do [Robot](https://robotframework.org) para teste no site da [Amazon](https://www.amazon.com.br), onde foram realizados testes de pesquisa e do retorno da pesquisa, se é válido ou não.
 <br></br>
 
