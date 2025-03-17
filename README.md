@@ -4,7 +4,6 @@
 Tecnologias em uso:
 <div>
     <img src="https://img.shields.io/badge/Cypress-green">
-    <img src="https://img.shields.io/badge/Robot-blue">
 </div>
 <br></br>
 <strong>Conteúdos:</strong>
