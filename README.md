@@ -1,12 +1,15 @@
-<h1 align=center>Gestão e Qualidade de Software</h1>
-<div align=center>Repositório destinado a testes e aprendizados em aula.</div>
-<strong>1 - Cauê - Automação de Testes:</strong><br>
-Tecnologias em uso:
-<div>
-    <img src="https://img.shields.io/badge/Cypress-green">
-</div>
-<br></br>
-<strong>Conteúdos:</strong>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" alt="Cypress Logo" width="200"/>
+</p>
 
-* [Cypress]
-  * Utilização do [Cypress](https://www.cypress.io), para fazer login em um site. Testes de automação na inserção de senha correta, incorreta, além da possibilidade da não inserção de um desses dados.
+# Gestão e Qualidade de Software
+
+Repositório criado como parte das aulas de **Gestão e Qualidade de Software**, com foco na automação de testes utilizando **Cypress**.
+
+---
+
+##  Tecnologias utilizadas
+
+- **Cypress** — framework para testes automatizados em JavaScript.
+
+---
